@@ -9,6 +9,7 @@
 | ลำดับ | ชื่อโปรเจค | GitHub URL | Status | คนทำ |
 |--------|-----------|------------|--------|--------|
 | 1 | **EGS (Experience Graph System)** | [n00n0i/egs](https://github.com/n00n0i/egs) | 🚀 In Progress | 🥑 กะเพรา |
+| 2 | **ThaiDoc AI** | [n00n0i/thaidoc-ai](https://github.com/n00n0i/thaidoc-ai) | 🚀 In Progress | 🥑 กะเพรา |
 
 ---
 
