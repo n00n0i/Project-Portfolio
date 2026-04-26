@@ -6,10 +6,9 @@
 
 ## 📊 Project List
 
-| ลำดับ | ชื่อโปรเจค | GitHub URL | Status | คนทำ |
-|--------|-----------|------------|--------|--------|
-| 1 | **EGS (Experience Graph System)** | [n00n0i/egs](https://github.com/n00n0i/egs) | 🚀 In Progress | 🥑 กะเพรา |
-| 2 | **ThaiDoc AI** | [n00n0i/thaidoc-ai](https://github.com/n00n0i/thaidoc-ai) | 🚀 In Progress | 🥑 กะเพรา |
+| ลำดับ | ชื่อโปรเจค | GitHub URL | Status | คนทำ | หมายเหตุ |
+|--------|-----------|------------|--------|--------|------------|
+| 1 | **EGS (Experience Graph System)** | [n00n0i/egs](https://github.com/n00n0i/egs) | ✅ Done (Phase 1) | 🥑 กะเพรา | E2E 10/10 ผ่าน, รอ Phase 2: AI Auto-Generate + UXUI Polish |
 
 ---
 
@@ -28,10 +27,10 @@ cd egs-project
 
 เพิ่มแถวในตาราง หรือแก้ไข Status ให้ตรงกับปัจจุบัน:
 
-| ลำดับ | ชื่อโปรเจค | GitHub URL | Status | คนทำ |
-|--------|-----------|------------|--------|--------|
-| 1 | EGS | [n00n0i/egs](https://github.com/n00n0i/egs) | ✅ Done | 🥑 กะเพรา |
-| 2 | ชื่อโปรเจคใหม่ | [n00n0i/xxx](https://github.com/n00n0i/xxx) | 🚀 In Progress | ชื่อคนทำ |
+| ลำดับ | ชื่อโปรเจค | GitHub URL | Status | คนทำ | หมายเหตุ |
+|--------|-----------|------------|--------|--------|------------|
+| 1 | EGS | [n00n0i/egs](https://github.com/n00n0i/egs) | ✅ Done (Phase 1) | 🥑 กะเพรา | E2E 10/10 ผ่าน, รอ Phase 2 |
+| 2 | ชื่อโปรเจคใหม่ | [n00n0i/xxx](https://github.com/n00n0i/xxx) | 🚀 In Progress | ชื่อคนทำ | ระบุอะไรกำลังทำอยู่ |
 
 **Status ที่ใช้:**
 - `✅ Done` — เสร็จสมบูรณ์
