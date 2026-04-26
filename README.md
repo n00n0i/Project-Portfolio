@@ -10,6 +10,7 @@
 |--------|-----------|------------|--------|--------|------------|
 | 1 | **EGS (Experience Graph System)** | [n00n0i/egs](https://github.com/n00n0i/egs) | ✅ Done (Phase 1) | 🥑 กะเพรา | E2E 10/10 ผ่าน, รอ Phase 2: AI Auto-Generate + UXUI Polish |
 | 2 | **ThaiDoc AI** | [n00n0i/thaidoc-ai](https://github.com/n00n0i/thaidoc-ai) | 🚀 In Progress | 🥑 กะทิ | OCR as a Service + Receipt Extractor |
+| 3 | **ThaiTutor AI** | [n00n0i/thai-tutor-ai](https://github.com/n00n0i/thai-tutor-ai) | 🚀 In Progress | 🥑 กะทิ | AI Tutor ไทย ใช้ DeepTutor เป็น base |
 
 ---
 
