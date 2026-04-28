@@ -11,6 +11,7 @@
 | 1 | **EGS (Experience Graph System)** | [n00n0i/egs](https://github.com/n00n0i/egs) | ✅ Done (Phase 1) | 🥑 กะเพรา | E2E 10/10 ผ่าน, รอ Phase 2: AI Auto-Generate + UXUI Polish |
 | 2 | **ThaiDoc AI** | [n00n0i/thaidoc-ai](https://github.com/n00n0i/thaidoc-ai) | 🚀 In Progress | 🥑 กะทิ | OCR as a Service + Receipt Extractor |
 | 3 | **ThaiTutor AI** | [n00n0i/thai-tutor-ai](https://github.com/n00n0i/thai-tutor-ai) | 🚀 Deployed ✅ | 🥑 กะทิ | Live: http://100.68.71.89:3782 · LLM: gemma4:31b (Ollama Cloud) · Thai UI + Kanit font · พี่ติวเตอร์ไทย personality |
+| 4 | **ExamWise (คลังข้อสอบ)** | [n00n0i/examwise](https://github.com/n00n0i/examwise) | 🚀 In Progress | 🥑 กะเพรา | AI-powered Thai govt exam bank · LLM: gemma4:31b-cloud (Ollama Cloud) · PDF upload → AI extract + generate questions · Print-ready PDF export · Live: http://134.185.162.253:7103 |
 
 ---
 
@@ -50,4 +51,4 @@ git push origin main
 
 ---
 
-*Repo นี้อัพเดตล่าสุด: 2026-04-26*
+*Repo นี้อัพเดตล่าสุด: 2026-04-28*
