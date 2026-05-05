@@ -8,7 +8,7 @@
 
 | ลำดับ | ชื่อโปรเจค | GitHub URL | Status | คนทำ | หมายเหตุ |
 |--------|-----------|------------|--------|--------|------------|
-| 1 | **EGS (Experience Graph System)** | [n00n0i/egs](https://github.com/n00n0i/egs) | ✅ Done (Phase 1) | 🥑 กะเพรา | E2E 10/10 ผ่าน, รอ Phase 2: AI Auto-Generate + UXUI Polish |
+| 1 | **EGS (Experience Graph System)** | [n00n0i/egs](https://github.com/n00n0i/egs) | 🚀 In Progress (Phase 2) | 🥑 กะเพรา | ✅ Phase 1 Done: E2E 10/10 ผ่าน · Backend v3.0.0 · 13 services รันอยู่ · **Live: http://100.68.71.89:6002** · 🚀 Phase 2: AI Auto-Generate กำลังทำ — Semantic ✅ มีปุ่ม Auto-Generate, Discovery ✅ มี Auto-Discover · **Next:** เพิ่ม AI Auto-Generate ให้ Compare, Embed, Schema, Data Sources |
 | 2 | **ThaiDoc AI** | [n00n0i/thaidoc-ai](https://github.com/n00n0i/thaidoc-ai) | 🚀 In Progress | 🥑 กะทิ | OCR as a Service + Receipt Extractor |
 | 3 | **ThaiTutor AI** | [n00n0i/thai-tutor-ai](https://github.com/n00n0i/thai-tutor-ai) | 🚀 Deployed ✅ | 🥑 กะทิ | Live: http://100.68.71.89:3782 · LLM: deepseek-v4-pro (Ollama Cloud) · Thai UI + Kanit font · พี่ติวเตอร์ไทย personality · ภาษาถิ่น: กลาง/อีสาน/ใต้ · **Dialect UI ✅ สมบูรณ์** (backend dialect field + frontend state + UI buttons) · Voice input (Web Speech API) ✅ · **Homework Mode** (deep_homework: Socratic/Direct/Hints) ✅ · Dogfood 17/17 tests ผ่าน · Context truncation fix |
 | 4 | **ExamWise (คลังข้อสอบ)** | [n00n0i/examwise](https://github.com/n00n0i/examwise) | 🚀 In Progress | 🥑 กะเพรา | AI-powered Thai govt exam bank · LLM: gemma4:31b-cloud (Ollama Cloud) · PDF upload → AI extract + generate questions · Print-ready PDF export · Live: http://134.185.162.253:7103 · **E2E ล่าสุด:** Frontend 100.68 สำเร็จที่ http://100.68.71.89:7102 · Playwright 8/8 หน้า HTTP 200 · Pages ใหม่: AIPage (AI Generate Questions, AI Generate Exam, วิเคราะห์จุดอ่อน) + PracticePage (เลือกหัวข้อ/ฝึกฝน) |
@@ -53,4 +53,4 @@ git push origin main
 
 ---
 
-*Repo นี้อัพเดตล่าสุด: 2026-05-03*
+*Repo นี้อัพเดตล่าสุด: 2026-05-05*
